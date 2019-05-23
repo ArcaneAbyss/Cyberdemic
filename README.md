@@ -1,2 +1,2 @@
 # Cyberdemic
-A game project that ELucid Studios is working on. It is a co-op 3rd person shooter game
+A game project that ELucid Studios is working on. It is a co-op 3rd person shooter game where players get to explore the vast world of Edra, a land filled with chaos and overrun by machines known as A-mechs. These machines are highly intelligent with animal instincts that will attack any humans that they find. The players as part of the Resistance team are ordered to seek and obliterate the A-mechs..
